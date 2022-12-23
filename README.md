@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/ss1.png)
+![Primera parte de la página web](imagenes/readme/ss1.jpg)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/ss2.png)
+![Experiencia](imagenes/readme/ss2.jpg)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/ss3.png)
+![Proyectos](imagenes/readme/ss3.jpg)
 
 Testimonios:
 
-![Testimonios](imagenes/readme/ss4.png)
+![Testimonios](imagenes/readme/ss4.jpg)
 
 Contacto:
 
-![Contacto](imagenes/readme/ss5.png)
+![Contacto](imagenes/readme/ss5.jpg)
 
 ## Tecnologías
 
